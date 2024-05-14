@@ -13,7 +13,9 @@ I am a Full Stack Web Developer, although I like more designing and developing t
 ## 🛠 Skills
 Javascript, React, Redux, Tailwind, Express, Sequelize, PostgreSQL, bun.
 ##
-![Valentino's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmontecinos&show_icons=true&hide=stars,issues&ring_color=FF5733&rank_icon=github&title_color=C70039&icon_color=FFC300)
+<a href="https://github.com/vmontecinos">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vmontecinos&show_icons=true&hide=stars,issues&ring_color=FFC300&icon_color=60D0DC&rank_icon=github&theme=synthwave" />
+</a>
 
 ##
 ## Contact me! ☎️
